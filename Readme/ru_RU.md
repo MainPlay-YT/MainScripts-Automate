@@ -1,2 +1,0 @@
-# MainScripts - Automate
-## Требования
