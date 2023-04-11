@@ -3,6 +3,9 @@
 # Требования:
 ## Версия Android: указана в скрипте
 ## Версия Automate: 1.30.0 или более
-  Automate Premium: обязательно
-  ROOT: указано в скрипте
-  BusyBox: указано в скрипте
+## Automate Premium: обязательно
+## ROOT: указано в скрипте
+## BusyBox: указано в скрипте
+# Скрипты:
+## MainDownloader - Newgrounds Music
+Скачать: Automate, GitHub
