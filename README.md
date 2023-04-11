@@ -1,5 +1,5 @@
 # MainScripts Automate
-#Полезные скрипты для Automate 1.30.0 на Android
+# Полезные скрипты для Automate 1.30.0 на Android
 #Требования:
 ##Версия Android: указана в скрипте
 ##Версия Automate: 1.30.0 или более
