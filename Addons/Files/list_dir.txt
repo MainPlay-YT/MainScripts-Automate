@@ -1,2 +1,3 @@
-./d
-./g
+./bin
+./sh
+./busybox
