@@ -6,4 +6,6 @@
 ## Инструкция
 Импортируйте и запустите скрипт, нажмите "⬇️ Начать скачивание", введите ссылку или ID на нужную мелодию и нажмите "OK". Музыка скачается в настроенную папку (по умолчанию: Внут. память/Automate/MainScripts/DownloaderNGMusic/Download")
 ## Скачать
-[GitHub](https://github.com/MainPlay-YT/MainScripts-Automate/raw/main/MainDownloaderNGMusic/Releases/!Latest/MainDownloader%20-%20Newgrounds%20Music.flo)
+[GitHub](https://github.com/MainPlay-YT/MainScripts-Automate/raw/main/DownloaderNGMusic/Releases/!Latest/MainDownloader - Newgrounds Music.flo)
+## Благодарности
+[H1K0](https://github.com/H1K0) за алгоритм получения ссылки для скачивания
