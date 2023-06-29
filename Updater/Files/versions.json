@@ -3,8 +3,8 @@
 		"name":"Updater",
 		"version":1,
 		"url":{
-			"download":null,
-			"description":null
+			"download":"https://raw.githubusercontent.com/MainPlay-YT/MainScripts-Automate/main/Updater/Releases/!Latest/MainUpdater.flo",
+			"description":"https://github.com/MainPlay-YT/MainScripts-Automate/blob/main/Updater/Readme.md"
 		},
 		"url_type":{
 			"download":"getfile",

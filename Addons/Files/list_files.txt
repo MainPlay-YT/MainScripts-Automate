@@ -1,4 +1,8 @@
 ./FlowID.txt
-./list_files.txt
 ./list_dir.txt
+./list_files.txt
+./bin/.nomedia
+./.nomedia
 ./log.json
+./sh/.nomedia
+./busybox/.nomedia
