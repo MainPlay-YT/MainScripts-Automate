@@ -1,0 +1,2 @@
+# MainDownloaderNGMusic
+[English](https://github.com/MainPlay-YT/MainScripts-Automate/blob/main/DownloaderNGMusic/Readme/EN.md), [Русский](https://github.com/MainPlay-YT/MainScripts-Automate/blob/main/DownloaderNGMusic/Readme/RU.md)

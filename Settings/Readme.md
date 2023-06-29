@@ -1,0 +1,2 @@
+# MainSettings
+[English](https://github.com/MainPlay-YT/MainScripts-Automate/blob/main/Settings/Readme/EN.md), [Русский](https://github.com/MainPlay-YT/MainScripts-Automate/blob/main/Settings/Readme/RU.md)

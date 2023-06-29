@@ -1,0 +1,2 @@
+# MainWallpaperManager
+[English](https://github.com/MainPlay-YT/MainScripts-Automate/blob/main/WallpaperManager/Readme/EN.md), [Русский](https://github.com/MainPlay-YT/MainScripts-Automate/blob/main/WallpaperManager/Readme/RU.md)

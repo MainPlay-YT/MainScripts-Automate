@@ -1,0 +1,2 @@
+# MainExample
+[English](https://github.com/MainPlay-YT/MainScripts-Automate/blob/main/Example/Readme/EN.md), [Русский](https://github.com/MainPlay-YT/MainScripts-Automate/blob/main/Example/Readme/RU.md)
