@@ -1,0 +1,14 @@
+[
+	{
+		"name":"Updater",
+		"version":1,
+		"url":{
+			"download":null,
+			"description":null
+		},
+		"url_type":{
+			"download":"getfile",
+			"description":"browser"
+		}
+	}
+]

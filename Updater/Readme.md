@@ -1,0 +1,2 @@
+# MainUpdater
+[English](https://github.com/MainPlay-YT/MainScripts-Automate/blob/main/Updater/Readme/EN.md), [Русский](https://github.com/MainPlay-YT/MainScripts-Automate/blob/main/Updater/Readme/RU.md)
