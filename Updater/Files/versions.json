@@ -11,5 +11,18 @@
 			"download":"getfile",
 			"description":"browser"
 		}
+	},
+	{
+		"name":"Core",
+		"version":1,
+		"developer":"MainScripts",
+		"url":{
+			"download":"https://raw.githubusercontent.com/MainPlay-YT/MainScripts-Automate/main/Core/Releases/!Latest/MainCore.flo",
+			"description":"https://github.com/MainPlay-YT/MainScripts-Automate/blob/main/Core/Readme.md"
+		},
+		"url_type":{
+			"download":"getfile",
+			"description":"browser"
+		}
 	}
 ]
