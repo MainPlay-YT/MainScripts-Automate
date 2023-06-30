@@ -2,6 +2,7 @@
 	{
 		"name":"Updater",
 		"version":1,
+		"dir":"MainScripts/Updater",
 		"url":{
 			"download":"https://raw.githubusercontent.com/MainPlay-YT/MainScripts-Automate/main/Updater/Releases/!Latest/MainUpdater.flo",
 			"description":"https://github.com/MainPlay-YT/MainScripts-Automate/blob/main/Updater/Readme.md"
